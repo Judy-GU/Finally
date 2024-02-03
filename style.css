@@ -1,0 +1,82 @@
+.clearfix{
+    clear:both;
+}
+
+.all{
+    width: 60%;
+    margin: auto;
+}
+
+
+.header{
+    font-family: 隶书;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(198, 47, 47);
+    border-style: double;
+    border-radius: 5px;
+    border-width: 10px;
+}
+
+.first{
+    color: rgb(198, 47, 47);
+    font-size: 20px;
+}
+.uno{
+    border-style: outset;
+    border-color: rgb(230, 196, 8);
+    border-radius: 10px;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.second{
+    color: rgb(198, 47, 47);
+    font-size: 20px;
+}
+.dos{
+    line-height: 1.8em;
+}
+.dos li{
+    list-style-image: url('../image.jpg');
+}
+
+button{
+    background-color: rgb(240, 222, 215);
+    padding: 8px 15px;
+}
+button:active{
+    color: rgb(230, 209, 18);
+}
+button:hover {
+    background-color: rgb(229, 132, 132);
+}
+
+a{
+    text-decoration: none;
+}
+
+.third{
+    color: rgb(198, 47, 47);
+    font-size: 20px;
+}
+.tres1{
+    float: left;
+    width:50%;
+}
+.tres2{
+    float: left;
+    width:50%;
+}
+.tres3{
+    float: left;
+    width:50%;
+}
+
+.fourth{
+    color: rgb(198, 47, 47);
+    font-size: 20px;
+}
+
